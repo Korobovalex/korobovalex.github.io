@@ -868,12 +868,11 @@ main {
 
 .portfolio_img {
 	width: 100%;
-	margin-right: 20px;
 	border: 3px solid #febf5d;
 }
 
 .portfolio_img:hover {
-	border: 3px solid #ffffff;	
+	border: 3px solid #00788C;	
 }
 
 .portfolio_img-link:nth-of-type(even) {
@@ -883,11 +882,6 @@ main {
 .portfolio_img-link:nth-of-type(3), 
 .portfolio_img-link:nth-of-type(4) {
 	margin-bottom: 0;
-}
-
-.portfolio_img:nth-of-type(3):hover, 
-.portfolio_img:nth-of-type(4):hover {
-	border: 5px solid #D6129F;
 }
 
 
