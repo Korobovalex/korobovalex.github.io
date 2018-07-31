@@ -508,7 +508,7 @@ main {
 .aside {
 	float: right;
 	width: 37.98%;
-	background: #efe0cb;
+	background: url('../img/aside-bg.png') #efe0cb;
   border-left: 2px solid #e0ceb3;
   border-image: url('../img/main-separator.png') 2 stretch;
    background: -moz-linear-gradient( -90deg, rgb( 252, 239, 223 ) 0%, rgb( 244, 221, 197 ) 100%);
