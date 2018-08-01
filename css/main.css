@@ -633,7 +633,7 @@ main {
 /* Tab 1 */
 
 #tab_1:checked ~ #tab_l1 {
-  	border-right: 2px double #40312a;
+  	border-right: 3px double #40312a;
 }
     
 #tab_1:checked ~ #tab_l2 {
