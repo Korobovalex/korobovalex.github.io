@@ -50,16 +50,15 @@ body {
 header {
   position: relative;
 	background: url('../img/header-noise.png') #f6b755;
-  border-bottom: 1px solid #f9ba59;
-  border-image: url('../img/header-border-bottom.png') 1 round;
-  background-image: -moz-linear-gradient( -90deg, rgb( 255, 177, 67 ) 0%, rgb( 255, 193, 86 ) 100%);
-  background-image: -webkit-linear-gradient( -90deg, rgb( 255, 177, 67 ) 0%, rgb( 255, 193, 86 ) 100%);
+  	border-bottom: 1px solid #f9ba59;
+  	border-image: url('../img/header-border-bottom.png') 1 round;
+  	background-image: -moz-linear-gradient( -90deg, rgb( 255, 177, 67 ) 0%, rgb( 255, 193, 86 ) 100%);
+  	background-image: -webkit-linear-gradient( -90deg, rgb( 255, 177, 67 ) 0%, rgb( 255, 193, 86 ) 100%);
 }
 
 /*    Logo styles    */
 
 div.logo {
-  display: inline-block;
   padding: 32px 0 32px 35px;
   float: left;
 }
@@ -69,7 +68,7 @@ div.logo {
 h1.logo {
   margin: 0;
   padding: 0;
-  text-shadow: 1px 1px 1px c3892f;
+  text-shadow: 1px 1px 1px #c3892f;
 }
 
 a.logo {
