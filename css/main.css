@@ -245,8 +245,8 @@ input.search {
 	right: 145px;
 	top: 70px;
 	z-index: 2;
-/*   box-shadow: inset 5px 5px 5px rgba(0, 0, 0, .1); */
-/*   box-shadow: 2px 2px 2px rgba(0, 0, 0, .2); */
+	/*   box-shadow: inset 5px 5px 5px rgba(0, 0, 0, .1); */
+	/*   box-shadow: 2px 2px 2px rgba(0, 0, 0, .2); */
 }
 
 .welcome_img.sec {
@@ -279,13 +279,13 @@ input.search {
 }
 
 .welcome_btn:first-child {
-  margin-right: 27px;
-  margin-left: 40px;
+  	margin-right: 27px;
+  	margin-left: 40px;
 }
 
 .welcome_btn:last-child {
-  margin-right: 0;
-  margin-left: 0;
+  	margin-right: 0;
+  	margin-left: 0;
 }
 
 .welcome_btn:hover {
@@ -601,11 +601,11 @@ main {
 }
 
 .desks > div > p:last-child {
-  padding: 10px 50px 40px 15px;
-  border-top: 1px solid #2e909f;
-  border-radius: 0 0 5px 5px;
-  background-image: -moz-linear-gradient( 90deg, rgb( 0, 117, 137 ) 0%, rgb( 0, 151, 166 ) 100%);
-  background-image: -webkit-linear-gradient( 90deg, rgb( 0, 117, 137 ) 0%, rgb( 0, 151, 166 ) 100%);
+  	padding: 10px 50px 40px 15px;
+  	border-top: 1px solid #2e909f;
+  	border-radius: 0 0 5px 5px;
+  	background-image: -moz-linear-gradient( 90deg, rgb( 0, 117, 137 ) 0%, rgb( 0, 151, 166 ) 100%);
+  йbackground-image: -webkit-linear-gradient( 90deg, rgb( 0, 117, 137 ) 0%, rgb( 0, 151, 166 ) 100%);
 }
 
 
@@ -647,8 +647,8 @@ main {
 /* Tab 2 */
 
 #tab_2:checked ~ #tab_l2 {
-  border-right: 3px double #40312a;
-  border-left: 3px double #40312a;
+	border-right: 3px double #40312a;
+	border-left: 3px double #40312a;
 }
     
 #tab_2:checked ~ #tab_l1,
@@ -659,7 +659,7 @@ main {
 /* Tab 3 */
 
 #tab_3:checked ~ #tab_l3 {
-  border-left: 3px double #40312a;
+  	border-left: 3px double #40312a;
 }
     
 #tab_3:checked ~ #tab_l1,
@@ -744,7 +744,7 @@ main {
   	background-image: -moz-linear-gradient( 90deg, rgb( 67, 45, 37 ) 0%, rgb( 60, 40, 31 ) 100%);
   	background-image: -webkit-linear-gradient( 90deg, rgb( 67, 45, 37 ) 0%, rgb( 60, 40, 31 ) 100%);
 	border-top: 3px double #b2988d;
-   /*border-image: url('../img/footer-border_line.png') 1 stretch; */
+   	/*border-image: url('../img/footer-border_line.png') 1 stretch; */
 
 }
 
