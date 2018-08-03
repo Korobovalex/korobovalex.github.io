@@ -719,7 +719,8 @@ main {
 }
 
 .sponsors_img:hover {
-	border: 5px solid #ffffff;	
+	border: 5px solid #ffffff;
+	cursor: pointer;
 }
 
 .sponsors_img:last-child {
