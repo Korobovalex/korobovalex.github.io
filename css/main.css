@@ -14,7 +14,7 @@ body, header, main, footer, section {
 }
 
 body {
-  width: 1020px;
+  max-width: 1020px;
 }
 
 
